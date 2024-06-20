@@ -6,9 +6,9 @@ Fast Tag fraud detection is a crucial task in the transportation sector to preve
 2. Exploratory Data Analysis (EDA)
 EDA is the initial step where we dive into the dataset to uncover patterns, anomalies, and insights. The key steps included:
 
-Data Cleaning: Handling missing values, correcting inconsistencies, and removing duplicates.
-Descriptive Statistics: Summarizing the central tendency, dispersion, and shape of the dataset’s distribution.
-Visualization: Using charts and plots (like histograms, box plots, scatter plots) to visualize data distributions, relationships, and trends.
+2.1 Data Cleaning: Handling missing values, correcting inconsistencies, and removing duplicates.
+2.2 Descriptive Statistics: Summarizing the central tendency, dispersion, and shape of the dataset’s distribution.
+2.3 Visualization: Using charts and plots (like histograms, box plots, scatter plots) to visualize data distributions, relationships, and trends.
 Key findings from EDA:
 
 Identification of significant features contributing to fraud detection.
