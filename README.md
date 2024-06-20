@@ -30,6 +30,8 @@ Performance Metrics:
 Accuracy: The percentage of correctly identified transactions.
 Precision and Recall: To balance between false positives and false negatives.
 F1-Score: Harmonic mean of precision and recall to measure model performance.
+
+
 5. Real-Time Fraud Detection
 The real-time fraud detection system was designed to process incoming transactions and flag potential frauds instantly.
 
